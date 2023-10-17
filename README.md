@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 💬 Ask me about anything
+- 🌱 I’m currently learning how to be more proactive and code more stuff.
+- 😄 Pronouns: She/Her
+- 📫 How to reach me: https://www.vanillyneko.com
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=arty01238&theme=dark)](https://git.io/streak-stats)
 
 <!--
